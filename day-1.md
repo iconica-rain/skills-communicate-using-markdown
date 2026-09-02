@@ -1,6 +1,6 @@
 # Daily Learning
 ## Morning Planning
-
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 ## Review
 # Hello World
 ## This is an `<h1>` header, which is the largest
